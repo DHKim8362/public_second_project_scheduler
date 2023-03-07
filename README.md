@@ -1,1 +1,1 @@
-# public_second_project_scheduler
+# second_project_scheduler
